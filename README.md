@@ -4,6 +4,19 @@
 
 ### Vzpostavitev povezavo z bazo
 
+*Navodila kako vzpostaviti Pentaho Data Integration ter povezati MySQL podatkovno bazo.*
+![Image 1](./static/image1.jpg)
+
+
+![Image 2](./static/image2.jpg)
+
+![Image 3](./static/image3.jpg)
+
+![Image 4](./static/image4.jpg)
+
+
+![Image 5](./static/image5.jpg)
+
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
