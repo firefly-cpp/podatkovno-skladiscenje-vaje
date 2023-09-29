@@ -17,6 +17,16 @@
 
 ![Image 5](./static/image5.jpg)
 
+*Navodila kako vzpostaviti povezavo na Database Lookup*
+![Image 6](./static/DB_Lookup1.jpg)
+
+
+![Image 7](./static/DB_Lookup2.jpg)
+
+![Image 8](./static/DB_Lookup3.jpg)
+
+![Image 9](./static/DB_Lookup4.jpg)
+
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
