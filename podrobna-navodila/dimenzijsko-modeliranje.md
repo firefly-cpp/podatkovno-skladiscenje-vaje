@@ -31,8 +31,18 @@ Na spodnji sliki je prikazan primer dimenzijske tabele "Lokacija", ki vsebuje at
 
 ### Tabela dejstev
 Na spodnji sliki je prikazan primer tabele dejstev (za beleženje prodaj v trgovini), ki vsebuje atribute količina, cena, popust in način plačila. Zaenkrat še ne vsebuje tujih ključev na dimenzijske tabele.  
-!["Tabela dejstev"](../static/fact-table.png)  
+![Tabela dejstev](../static/fact-table.png)  
 
 ### Končen dimenzijski model
 Spodnja slika prikazuje končen dimenzijski model, ki vsebuje dimenziji "Čas" in "Lokacija", ter tabelo dejstev.  
 ![Dimenzijski model](../static/dimensional-model.png)  
+
+## Pretvorba modela v podatkovno bazo
+Za pretvorbo modela v podatkovno bazo kliknite na ``Database > Forward Engineer`` (oziroma Ctrl + G). Odprlo se bo novo okno, kjer trikrat kliknete na ``Next``. V oknu se bo nato prikazala skripta za ustvarjanje podatkovne baze. Skripto prekopirajte ali shranite v datoteko. 
+
+![Pretvorba modela v podatkovno bazo](../static/forward-engineer.png)  
+
+Shranjeno datoteko odprite s klikom na ``File > Open SQL Script`` (oziroma Ctrl + Shift + O). Če ste skripto prekopirali, kliknite na ``File > New Query Tab`` (oziroma Ctrl + T) in v novo odprto okno prilepite skripto.
+
+Ker obstaja možnost, da skripta ne bo delovala, jo je potrebno pred izvedbo še malenkost popraviti. Iz skripte izbrišite vse pojave ključne besede ``VISIBLE``, saj le-ta ni kompatibilna z MySQL podatkovno bazo. Nato skripto izvedite s klikom na ``Query > Execute (All or Selection)`` (oziroma Ctrl + Shift + Enter). Če se skripta izvede brez napak, se v levem delu MySQL Workbench odpre novo drevo, ki vsebuje ustvarjeno podatkovno bazo, njene tabele in atribute.
+![Drevesna struktura](../static/tree-structure.png)  
