@@ -5,7 +5,7 @@ Prenesite in namestite MySQL Workbench iz [te povezave](https://dev.mysql.com/do
 
 ## Uporaba orodja MySQL Workbench
 ### Ustvarjanje novega modela
-Za ustvarjanje novega modela, kliknite na ``File > New Model`` (oziroma Ctrl + N). Nato v razdelku ``Model Overview`` kliknite na "Add Diagram".  
+Za ustvarjanje novega modela, kliknite na ``File > New Model`` (oziroma Ctrl + N). Nato v razdelku ``Model Overview`` kliknite na ``Add Diagram``.  
 ![Ustvarjanje novega modela](../static/new-model.png)  
 ![Ustvarjanje ER diagrama](../static/new-er-diagram.png)  
 
