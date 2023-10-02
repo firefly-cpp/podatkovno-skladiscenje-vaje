@@ -44,5 +44,5 @@ Za pretvorbo modela v podatkovno bazo kliknite na ``Database > Forward Engineer`
 
 Shranjeno datoteko odprite s klikom na ``File > Open SQL Script`` (oziroma Ctrl + Shift + O). Če ste skripto prekopirali, kliknite na ``File > New Query Tab`` (oziroma Ctrl + T) in v novo odprto okno prilepite skripto.
 
-Ker obstaja možnost, da skripta ne bo delovala, jo je potrebno pred izvedbo še malenkost popraviti. Iz skripte izbrišite vse pojave ključne besede ``VISIBLE``, saj le-ta ni kompatibilna z MySQL podatkovno bazo. Nato skripto izvedite s klikom na ``Query > Execute (All or Selection)`` (oziroma Ctrl + Shift + Enter). Če se skripta izvede brez napak, se v levem delu MySQL Workbench odpre novo drevo, ki vsebuje ustvarjeno podatkovno bazo, njene tabele in atribute.
+Ker obstaja možnost, da skripta ne bo delovala, jo je potrebno pred izvedbo še malenkost popraviti. Iz skripte izbrišite vse pojave ključne besede ``VISIBLE``, saj le-ta ni kompatibilna z MySQL podatkovno bazo. Nato skripto izvedite s klikom na ``Query > Execute (All or Selection)`` (oziroma Ctrl + Shift + Enter). Če se skripta izvede brez napak, se v levem delu MySQL Workbench odpre novo drevo, ki vsebuje ustvarjeno podatkovno bazo, njene tabele in atribute.  
 ![Drevesna struktura](../static/tree-structure.png)  
