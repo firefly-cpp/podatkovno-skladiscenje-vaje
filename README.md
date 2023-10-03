@@ -1,11 +1,10 @@
 <h1 align="center">Podrobna navodila</h1>
 
-## Namestitev orodja Pentaho
+## Vsebina
 
-### Vzpostavitev povezavo z bazo
+[Dimenzijsko modeliranje](https://github.com/firefly-cpp/podatkovno-skladiscenje-vaje/blob/main/podrobna-navodila/dimenzijsko-modeliranje.md)
 
-
-
+[Orodje Pentaho](https://github.com/firefly-cpp/podatkovno-skladiscenje-vaje/blob/main/podrobna-navodila/Pentaho.md)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
