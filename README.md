@@ -1,6 +1,8 @@
-<h1 align="center">Podrobna navodila</h1>
+<h1 align="center">
+Podatkovno skladiščenje (vaje) 2023/2024
+</h1>
 
-## Vsebina
+## Dodatno gradivo za predmet Podatkovno skladiščenje
 
 [Dimenzijsko modeliranje](https://github.com/firefly-cpp/podatkovno-skladiscenje-vaje/blob/main/podrobna-navodila/dimenzijsko-modeliranje.md)
 
