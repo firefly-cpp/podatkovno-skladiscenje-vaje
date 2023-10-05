@@ -1,5 +1,7 @@
 <h1 align="center">
 Podatkovno skladiščenje (vaje) 2023/2024
+<br><br> 
+<img width="256" height="256" src="./assets/logo_ps_512.png">
 </h1>
 
 ## Dodatno gradivo za predmet Podatkovno skladiščenje
