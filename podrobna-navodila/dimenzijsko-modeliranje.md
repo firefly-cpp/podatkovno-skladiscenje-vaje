@@ -30,7 +30,7 @@ Na spodnji sliki je prikazan primer dimenzijske tabele "Lokacija", ki vsebuje at
 ![Dimenzija "Lokacija"](../static/dimension-location.png)  
 
 ### Tabela dejstev
-Na spodnji sliki je prikazan primer tabele dejstev (za beleženje prodaj v trgovini), ki vsebuje atribute količina, cena, popust in način plačila. Zaenkrat še ne vsebuje tujih ključev na dimenzijske tabele.  
+Na spodnji sliki je prikazan primer tabele dejstev (za beleženje prodaj v trgovini), ki vsebuje atribute količina, cena in popust. Zaenkrat še ne vsebuje tujih ključev na dimenzijske tabele.  
 ![Tabela dejstev](../static/fact-table.png)  
 
 ### Končen dimenzijski model
