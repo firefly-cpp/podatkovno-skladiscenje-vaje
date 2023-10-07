@@ -3,7 +3,7 @@ Podatkovno skladiščenje (vaje) 2023/2024 <br>
 <img width="256" height="256" src="./assets/logo_ps_512.png">
 </h1>
 
-## Dodatno gradivo za predmet Podatkovno skladiščenje
+## Dodatno gradivo za vaje pri predmetu Podatkovno skladiščenje
 
 [Dimenzijsko modeliranje](https://github.com/firefly-cpp/podatkovno-skladiscenje-vaje/blob/main/podrobna-navodila/dimenzijsko-modeliranje.md)
 
