@@ -1,5 +1,5 @@
 <h1 align="center">
-Podatkovno skladiščenje (vaje) 2023/2024 <br>
+Podatkovno skladiščenje (vaje) 2024/2025 <br>
 <img width="256" height="256" src="./assets/logo_ps_512.png">
 </h1>
 
